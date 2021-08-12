@@ -1,0 +1,10 @@
+model/Student.java
+ model.Student
+service/ManageStudent.java
+ service.ManageStudent
+AppConfiguration.java
+ AppConfiguration
+AppInitializer.java
+ AppInitializer
+controller/StudentControl.java
+ controller.StudentControl
